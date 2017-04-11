@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PPJ_PicPic/PPJ_PicPic.iml" filepath="$PROJECT_DIR$/PPJ_PicPic/PPJ_PicPic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PPJ_Picfee-Collage.iml" filepath="$PROJECT_DIR$/PPJ_Picfee-Collage.iml" />
+    </modules>
+  </component>
+</project>

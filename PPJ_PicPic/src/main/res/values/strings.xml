@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicPic</string>
+    <string name="version">0.9.1</string>
+    <string name="action_settings">Settings</string>
+    <string name="ID_INSERT_ICON">+ICON</string>
+    <string name="ID_INSERT">+PIC</string>
+    <string name="ID_UP">+</string>
+    <string name="ID_DOWN">-</string>
+    <string name="ID_SAVE">Save</string>
+    <string name="title_activity_icon_list">IconList</string>
+    <string name="title_activity_background_list_dialog">BackgroundListDialog</string>
+    <string name="title_activity_picfee_menu">PicPic</string>
+    <string name="ID_PIC_FLODER">PicPic</string>
+    <string name="ID_OK">ok</string>
+    <string name="ID_CANCEL">cancel</string>
+    <string name="ID_SAVE_MSG">Do you save this?</string>
+    <string name="ID_DELETE_MSG">Delete?</string>
+     <string name="ID_WAITING">Waiting</string>
+
+</resources>

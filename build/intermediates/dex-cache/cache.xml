@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6f18ce245e58742f7a5c786bdb20b441839e43a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d1db98234720c52585369212b54d9e816f96353c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\.android\build-cache\baad42d6f3b455ffa07e978250900ba4e8d3783a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f7e6fa651414a0f613a21aea1e287c35bc35629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_6f18ce245e58742f7a5c786bdb20b441839e43a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_fee65ca4fb6afb02de63520463565856e2ac9340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\.android\build-cache\efbbd378af301280166e3f48417ffe5751d097f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b9b0539f403f3b2b68c1b974e485c8ff88bffd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61b7bc84417833ec43ce04dff4c6ce7045ec7048">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_91e48adeec16fda58ec09008536c0445c8a0d499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_fee65ca4fb6afb02de63520463565856e2ac9340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\10007718\.android\build-cache\baad42d6f3b455ffa07e978250900ba4e8d3783a\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\MyAndroidProject\PPJ_Picfee-Collage\PPJ_PicPic\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_607e22e470c509e7b073d53bf697172ff6f09bd2\classes.dex" />
+    </item>
+
+</items>

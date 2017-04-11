@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\res\\merged\\debug\\menu\\background_list_dialog.xml",
+        "source": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\src\\main\\res\\menu\\background_list_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\res\\merged\\debug\\menu\\picfee_menu.xml",
+        "source": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\src\\main\\res\\menu\\picfee_menu.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\src\\main\\res\\menu\\main.xml"
+    }
+]

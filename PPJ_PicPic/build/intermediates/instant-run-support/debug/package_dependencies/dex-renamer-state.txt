@@ -1,0 +1,16 @@
+#Tue Apr 11 14:49:09 CST 2017
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes4.dex
+renamed.1=classes2.dex
+base.4=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_607e22e470c509e7b073d53bf697172ff6f09bd2
+renamed.0=classes.dex
+base.3=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\universal-image-loader-1.9.5_fee65ca4fb6afb02de63520463565856e2ac9340
+base.2=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_6f18ce245e58742f7a5c786bdb20b441839e43a8
+base.1=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4f7e6fa651414a0f613a21aea1e287c35bc35629
+base.0=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1b9b0539f403f3b2b68c1b974e485c8ff88bffd1
+file.4=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_607e22e470c509e7b073d53bf697172ff6f09bd2\\classes.dex
+file.3=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\universal-image-loader-1.9.5_fee65ca4fb6afb02de63520463565856e2ac9340\\classes.dex
+file.2=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_6f18ce245e58742f7a5c786bdb20b441839e43a8\\classes.dex
+file.1=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4f7e6fa651414a0f613a21aea1e287c35bc35629\\classes.dex
+file.0=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1b9b0539f403f3b2b68c1b974e485c8ff88bffd1\\classes.dex

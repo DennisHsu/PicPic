@@ -1,0 +1,7 @@
+#Tue Apr 11 14:49:13 CST 2017
+base.0=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d1db98234720c52585369212b54d9e816f96353c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_91e48adeec16fda58ec09008536c0445c8a0d499\\classes.dex
+base.1=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_91e48adeec16fda58ec09008536c0445c8a0d499
+file.0=D\:\\MyAndroidProject\\PPJ_Picfee-Collage\\PPJ_PicPic\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d1db98234720c52585369212b54d9e816f96353c\\classes.dex
